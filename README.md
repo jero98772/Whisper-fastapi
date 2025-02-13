@@ -46,7 +46,7 @@ This project is a real-time, multi-language speech transcription web application
 - **Response:** Returns transcribed text.
 
 ## Screenshots
-(Add your screenshots here)
+![](https://github.com/jero98772/Whisper-fastapi/blob/main/docs/1.jpeg)
 
 ## License
 This project is free to use without restrictions.
